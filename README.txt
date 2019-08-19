@@ -2,7 +2,6 @@ Music for Endgame: Singularity
 
 This is a git submodule of Singularity main repository found at:
 
-http://code.google.com/p/endgame-singularity
 https://github.com/singularity/singularity
 
 The "music/" subdirectory of this package should be moved into your
